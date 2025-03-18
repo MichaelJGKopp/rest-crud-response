@@ -1,4 +1,4 @@
-### Exercise: Recipe Management REST Service
+### Recipe Management REST Service
 
 #### Objective:
 Create a RESTful web service using Spring Boot to manage recipes.

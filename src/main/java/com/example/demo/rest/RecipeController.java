@@ -22,6 +22,10 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * REST controller for managing recipe resources.
+ * Provides API endpoints for retrieving and managing recipes.
+ */
 @RestController
 @RequestMapping("${api.base-path}/recipes")
 @RequiredArgsConstructor
